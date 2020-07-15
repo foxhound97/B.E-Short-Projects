@@ -1,2 +1,4 @@
 # B.E-Short-Projects
-Short Projects
+1. Digital Cryptex (Using Arduino)
+
+2. Knocking Pattern Detector using Arduino
